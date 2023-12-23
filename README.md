@@ -1,1 +1,1 @@
-# React-Firebase
+# React with Cloud Firestore
